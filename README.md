@@ -9,7 +9,7 @@ To eliminate the need for third-party escrow services in freelance and peer-to-p
 ## 🚀 Future Scope
 - Add dispute resolution with a mediator.
 - Include expiration time to auto-refund buyer.
-- Support milestone-based or partial payments.
+- Support milestone-based or partial payments.  
 - Token-based escrow support beyond STX.
 
 ## 🔗 Contract Address
